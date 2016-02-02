@@ -27,8 +27,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [DONNEES_BASE_FOND_PLAN_ANNOTATIONS_2012_RW_NB](http://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS)
 
-* [DONNEES_BASE_FOND_PLAN_ANNOTATIONS_2012_RW_NB](http://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS)
-
 * [IGN_FOND_IGN_NB](http://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS)
 
 * [IGN_LIMITE_REGION](http://geoservices.wallonie.be/arcgis/rest/services/IGN/LIMITE_REGION/MapServer/WMTS)
@@ -52,4 +50,3 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 ##World
 
 * [Public Web Map Tile Service (WMTS)](http://gis.sinica.edu.tw/worldmap/wmts)
-
