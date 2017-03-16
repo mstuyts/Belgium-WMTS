@@ -11,7 +11,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ##Belgium
 
-* [Viewservice WMTS - NGI - IGN](http://www.ngi.be/cartoweb/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.ngi.be/cartoweb/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+* [Viewservice WMTS - NGI - IGN](https://www.ngi.be/cartoweb/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://www.ngi.be/cartoweb/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
@@ -25,25 +25,25 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ##Wallonia
 
-* [DONNEES_BASE_FOND_PLAN_ANNOTATIONS_2012_RW_NB - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [DONNEES_BASE_FOND_PLAN_ANNOTATIONS_2012_RW_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IGN_FOND_IGN_NB - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IGN_FOND_IGN_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IGN_LIMITE_REGION - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IGN/LIMITE_REGION/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IGN/LIMITE_REGION/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IGN_LIMITE_REGION - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IGN/LIMITE_REGION/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IGN/LIMITE_REGION/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_1994_2000 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_1994_2000/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_1994_2000/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_1994_2000 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_1994_2000/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_1994_2000/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2006_2007 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2006_2007 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2006_2007_HILLSHADE - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007_HILLSHADE/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007_HILLSHADE/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2006_2007_HILLSHADE - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007_HILLSHADE/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2006_2007_HILLSHADE/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2009_2010 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2009_2010 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2009_2010/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2012_2013 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2012_2013 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2012_2013/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2015 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2015 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_LAST - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
