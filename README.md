@@ -19,7 +19,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wmts/WMTS_Triton) - [GetCapabilities](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wmts/WMTS_Triton?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [AGIV WMTS service - AIV](http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?) - [GetCapabilities](http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts??request=getcapabilities&service=wmts&version=1.0.0)
+* [AGIV WMTS service - AIV](http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts) - [GetCapabilities](http://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
