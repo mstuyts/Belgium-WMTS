@@ -9,13 +9,13 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 
 
-##Belgium
+## Belgium
 
 * [Viewservice WMTS - NGI - IGN](https://www.ngi.be/cartoweb/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://www.ngi.be/cartoweb/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
-##Flanders
+## Flanders
 
 * [agentschapmdk.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wmts/WMTS_Triton) - [GetCapabilities](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wmts/WMTS_Triton?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -23,7 +23,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 
 
-##Wallonia
+## Wallonia
 
 * [DONNEES_BASE_FOND_PLAN_ANNOTATIONS_2012_RW_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -47,6 +47,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 
 
-##World
+## World
 
 * [Public Web Map Tile Service (WMTS) - sinica.edu.tw](http://gis.sinica.edu.tw/worldmap/wmts) - [GetCapabilities](http://gis.sinica.edu.tw/worldmap/wmts?request=getcapabilities&service=wmts&version=1.0.0)
