@@ -33,6 +33,30 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Cached_Ms_Topo_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Overstromingsgevoelige_gebieden_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Overstromingsgevoelige_gebieden_2011 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2011/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2011/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Overstromingsgevoelige_gebieden_2014 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2014/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2014/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [overstroombaargebied - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [overstroombaargebied_2013 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied_2013/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied_2013/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Overstroombaargebied_klimaatprojectie_hoog - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstroombaargebied_klimaatprojectie_hoog/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstroombaargebied_klimaatprojectie_hoog/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Perimetergebieden_recht_van_voorverkoop - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Risicozones_overstroming_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Risicozones_overstroming_2015 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [waterdieptekaart_grotekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_grotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_grotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [waterdieptekaart_kleinekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_kleinekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_kleinekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [waterdieptekaart_middelgrotekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 
 
 ## Wallonia
