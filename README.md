@@ -86,3 +86,5 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 ## World
 
 * [Public Web Map Tile Service (WMTS) - sinica.edu.tw](http://gis.sinica.edu.tw/worldmap/wmts) - [GetCapabilities](http://gis.sinica.edu.tw/worldmap/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Service de visualisation WMTS - IGN](https://wxs.ign.fr/pratique/geoportail/wmts) - [GetCapabilities](https://wxs.ign.fr/pratique/geoportail/wmts?request=getcapabilities&service=wmts&version=1.0.0)
