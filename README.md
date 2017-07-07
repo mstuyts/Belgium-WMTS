@@ -17,7 +17,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Brussels
 
-* [Web Map Tile Service - GeoWebCache - http://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts](http://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](http://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+* [Web Map Tile Service - GeoWebCache - http://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
