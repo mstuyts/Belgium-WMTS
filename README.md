@@ -91,6 +91,22 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## World
 
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/light-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/light-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/traffic-day-v2/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/traffic-day-v2/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/traffic-night-v2/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/traffic-night-v2/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/dark-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/dark-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Public Web Map Tile Service (WMTS) - sinica.edu.tw](http://gis.sinica.edu.tw/worldmap/wmts) - [GetCapabilities](http://gis.sinica.edu.tw/worldmap/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Service de visualisation WMTS - IGN](https://wxs.ign.fr/pratique/geoportail/wmts) - [GetCapabilities](https://wxs.ign.fr/pratique/geoportail/wmts?request=getcapabilities&service=wmts&version=1.0.0)
