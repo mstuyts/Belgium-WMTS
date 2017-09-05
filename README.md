@@ -111,6 +111,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [ESRI_StreetMap_World_2D - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/ESRI_StreetMap_World_2D/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/ESRI_StreetMap_World_2D/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Global Surface Water - European Commission Joint Research Centre/Google](https://storage.googleapis.com/global-surface-water/downloads_ancillary/WMTS_Global_Surface_Water.xml) - [GetCapabilities](https://storage.googleapis.com/global-surface-water/downloads_ancillary/WMTS_Global_Surface_Water.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
