@@ -53,6 +53,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Perimetergebieden_recht_van_voorverkoop - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Perimetergebieden_recht_van_voorverkoop/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Referentielagen_Topokaart - toerismevlaanderen.be](http://trip.toerismevlaanderen.be/arcgis/rest/services/Referentielagen/Topokaart/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://trip.toerismevlaanderen.be/arcgis/rest/services/Referentielagen/Topokaart/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Risicozones_overstroming_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Risicozones_overstroming_2015 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
@@ -62,6 +64,10 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [waterdieptekaart_kleinekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_kleinekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_kleinekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [waterdieptekaart_middelgrotekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_middelgrotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Web Map Tile Service - GeoWebCache - nodemapp.com](https://geoserver2.nodemapp.com/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoserver2.nodemapp.com/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Web Map Tile Service - GeoWebCache - vlaanderen.be](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorgeocachepubliek/service/wmts) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorgeocachepubliek/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
@@ -91,6 +97,20 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## World
 
+* [Canvas_World_Dark_Gray_Base - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Canvas_World_Dark_Gray_Reference - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Canvas_World_Light_Gray_Base - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Canvas_World_Light_Gray_Reference - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Elevation_World_Hillshade - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [ESRI_Imagery_World_2D - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/ESRI_Imagery_World_2D/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/ESRI_Imagery_World_2D/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [ESRI_StreetMap_World_2D - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/ESRI_StreetMap_World_2D/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/ESRI_StreetMap_World_2D/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
@@ -107,6 +127,36 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Ocean_Basemap - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Ocean_World_Ocean_Base - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Ocean_World_Ocean_Reference - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Public Web Map Tile Service (WMTS) - sinica.edu.tw](http://gis.sinica.edu.tw/worldmap/wmts) - [GetCapabilities](http://gis.sinica.edu.tw/worldmap/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Reference_World_Boundaries_and_Places - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Reference_World_Boundaries_and_Places_Alternate - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places_Alternate/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places_Alternate/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Reference_World_Reference_Overlay - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Reference_Overlay/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Reference_World_Transportation - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Service de visualisation WMTS - IGN](https://wxs.ign.fr/pratique/geoportail/wmts) - [GetCapabilities](https://wxs.ign.fr/pratique/geoportail/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Specialty_DeLorme_World_Base_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Specialty_World_Navigation_Charts - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [World_Imagery - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [World_Physical_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [World_Shaded_Relief - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [World_Street_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [World_Terrain_Base - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [World_Topo_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
