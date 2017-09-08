@@ -1,3 +1,4 @@
+
 # WMTS List Belgium
 **A list of WMTS services with data for Belgium**
 
@@ -22,8 +23,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 
 ## Flanders
-
-* [agentschapmdk.be - irisnet.be](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wmts/WMTS_Triton) - [GetCapabilities](http://bathy.agentschapmdk.be/spatialfusionserver/services/ows/wmts/WMTS_Triton?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [AGIV WMTS service - AIV](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts) - [GetCapabilities](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -128,6 +127,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/dark-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/dark-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [NatGeo_World_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Ocean_Basemap - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
