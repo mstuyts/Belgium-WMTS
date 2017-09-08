@@ -1,4 +1,3 @@
-
 # WMTS List Belgium
 **A list of WMTS services with data for Belgium**
 
@@ -24,6 +23,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Flanders
 
+* [ABW_Plannen - limburg.be](https://geo.limburg.be/arcgis/rest/services/ABW_Plannen/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/ABW_Plannen/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [AGIV WMTS service - AIV](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts) - [GetCapabilities](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Cached_Ms_AtlasWaterlopen1877_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_AtlasWaterlopen1877_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_AtlasWaterlopen1877_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
@@ -37,6 +38,16 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Cached_Ms_Topo10_zw_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo10_zw_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo10_zw_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Cached_Ms_Topo_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Luchtfoto - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Luchtfoto_1971 - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Luchtfoto_1990_1984_zomer - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1990_1984_zomer/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1990_1984_zomer/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Luchtfoto_2012_zomer - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2012_zomer/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2012_zomer/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Luchtfoto_eltest - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_eltest/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_eltest/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Overstromingsgevoelige_gebieden_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -57,6 +68,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Risicozones_overstroming_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Risicozones_overstroming_2015 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Schaduwering - limburg.be](https://geo.limburg.be/arcgis/rest/services/Schaduwering/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Schaduwering/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [waterdieptekaart_grotekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_grotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_grotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -151,6 +164,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Specialty_DeLorme_World_Base_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Specialty_World_Navigation_Charts - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [WorldTimeZones - arcgisonline.com](http://sampleserver5.arcgisonline.com/arcgis/rest/services/WorldTimeZones/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://sampleserver5.arcgisonline.com/arcgis/rest/services/WorldTimeZones/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [World_Imagery - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
