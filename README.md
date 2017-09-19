@@ -85,6 +85,16 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Wallonia
 
+* [APP_ATLAS_STAT_OVERVIEW - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/OVERVIEW/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/OVERVIEW/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [APP_ATLAS_STAT_TILED - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/TILED/MapServer/WMTS) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/TILED/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [APP_DSWEB_ORTHO_LAST - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_DSWEB/ORTHO_LAST/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_DSWEB/ORTHO_LAST/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [APP_IRIS_IRIS_FDP - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_IRIS/IRIS_FDP/MapServer/WMTS) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_IRIS/IRIS_FDP/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [APP_TRAFIROUTES_FDP_TRAFIROUTES_NEW - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_TRAFIROUTES/FDP_TRAFIROUTES_NEW/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_TRAFIROUTES/FDP_TRAFIROUTES_NEW/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [DONNEES_BASE_FOND_PLAN_ANNOTATIONS_2012_RW_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_ANNOTATIONS_2012_RW_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [IGN_FOND_IGN_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IGN/FOND_IGN_NB/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
