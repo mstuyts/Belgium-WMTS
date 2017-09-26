@@ -17,7 +17,35 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Brussels
 
+* [arbres_arbres - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/arbres/arbres/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/arbres/arbres/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [basemap_ortho2004 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/basemap/ortho2004/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/basemap/ortho2004/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [basemap_ortho2012 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/basemap/ortho2012/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/basemap/ortho2012/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [basemap_UrbisAdmUrbisFR - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/basemap/UrbisAdmUrbisFR/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/basemap/UrbisAdmUrbisFR/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [basemap_UrbisAdmUrbisNL - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/basemap/UrbisAdmUrbisNL/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/basemap/UrbisAdmUrbisNL/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [basemap_urbisFR - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/basemap/urbisFR/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/basemap/urbisFR/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [basemap_urbisNL - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/basemap/urbisNL/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/basemap/urbisNL/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [bruciel_ortho1930 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1930/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1930/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [bruciel_ortho1944 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1944/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1944/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [bruciel_ortho1953 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1953/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1953/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [bruciel_ortho1971 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [bruciel_ortho1996 - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1996/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bruciel/ortho1996/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [bxlheat_bxlHeat - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bxlheat/bxlHeat/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bxlheat/bxlHeat/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Web Map Tile Service - GeoWebCache - irisnet.be](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Web Map Tile Service - GeoWebCache - irisnet.be](http://www.mybrugis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](http://www.mybrugis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
@@ -80,6 +108,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Web Map Tile Service - GeoWebCache - nodemapp.com](https://geoserver2.nodemapp.com/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoserver2.nodemapp.com/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Web Map Tile Service - GeoWebCache - vlaanderen.be](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorgeocachepubliek/service/wmts) - [GetCapabilities](https://www.mercator.vlaanderen.be/raadpleegdienstenmercatorgeocachepubliek/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Web Map Tile Service - GeoWebCache - gent.be](https://geo.gent.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geo.gent.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
