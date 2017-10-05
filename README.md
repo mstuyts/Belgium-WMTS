@@ -145,7 +145,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [Web Map Tile Service - GeoWebCache - imio.be](http://geonode.imio.be/geoserver/gwc/service/wmts) - [GetCapabilities](http://geonode.imio.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+* [Web Map Tile Service - GeoWebCache - imio.be](https://geonode.imio.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geonode.imio.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
