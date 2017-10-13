@@ -191,7 +191,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Ocean_World_Ocean_Reference - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [Public Web Map Tile Service (WMTS) - sinica.edu.tw](http://gis.sinica.edu.tw/worldmap/wmts) - [GetCapabilities](http://gis.sinica.edu.tw/worldmap/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+* [Public Web Map Tile Service (WMTS) - sinica.edu.tw](https://gis.sinica.edu.tw/worldmap/wmts) - [GetCapabilities](https://gis.sinica.edu.tw/worldmap/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Reference_World_Boundaries_and_Places - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
