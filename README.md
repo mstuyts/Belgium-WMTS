@@ -111,6 +111,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Web Map Tile Service - GeoWebCache - gent.be](https://geo.gent.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geo.gent.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Web Map Tile Service - GeoWebCache - verkeerscentrum.be](http://indicatoren.verkeerscentrum.be/geoserver/gwc/service/wmts) - [GetCapabilities](http://indicatoren.verkeerscentrum.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
 
 
 ## Wallonia
