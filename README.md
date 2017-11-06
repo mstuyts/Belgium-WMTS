@@ -165,7 +165,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [IMAGERIE_ORTHO_2015 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2016 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2016 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
