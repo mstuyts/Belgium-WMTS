@@ -1,3 +1,4 @@
+
 # WMTS List Belgium
 **A list of WMTS services with data for Belgium**
 
@@ -165,7 +166,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [IMAGERIE_ORTHO_2015 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2015/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [IMAGERIE_ORTHO_2016 - wallonie.be](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+* [IMAGERIE_ORTHO_2016 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -225,6 +226,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Reference_World_Transportation - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Service de visualisation WMTS - IGN](https://gpp3-wxs.ign.fr/81lfly3aj309bmxvt1kt1r1v/geoportail/wmts) - [GetCapabilities](https://gpp3-wxs.ign.fr/81lfly3aj309bmxvt1kt1r1v/geoportail/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Service de visualisation WMTS - IGN](https://wxs.ign.fr/pratique/geoportail/wmts) - [GetCapabilities](https://wxs.ign.fr/pratique/geoportail/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Specialty_DeLorme_World_Base_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
@@ -244,3 +247,4 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [World_Terrain_Base - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [World_Topo_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
