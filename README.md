@@ -62,18 +62,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [AGIV WMTS service - AIV](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts) - [GetCapabilities](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [Cached_Ms_AtlasWaterlopen1877_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_AtlasWaterlopen1877_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_AtlasWaterlopen1877_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [Cached_Ms_AtlasWaterlopen1950_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_AtlasWaterlopen1950_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_AtlasWaterlopen1950_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [Cached_Ms_Luchtfoto_cache - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Luchtfoto_cache/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Luchtfoto_cache/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [Cached_Ms_Topo100_zw_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo100_zw_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo100_zw_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [Cached_Ms_Topo10_zw_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo10_zw_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo10_zw_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [Cached_Ms_Topo_cached - provincieantwerpen.be](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://gis.provincieantwerpen.be/arcgis/rest/services/Cached/Ms_Topo_cached/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
 * [Luchtfoto - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Luchtfoto_1971 - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
