@@ -78,6 +78,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Overstromingsgevoelige_gebieden_2014 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2014/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2014/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Overstromingsgevoelige_gebieden_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [overstroombaargebied - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [overstroombaargebied_2013 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied_2013/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/overstroombaargebied_2013/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
