@@ -92,6 +92,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Risicozones_overstroming_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Risicozones_overstroming_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Risicozones_overstroming_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Schaduwering - limburg.be](https://geo.limburg.be/arcgis/rest/services/Schaduwering/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Schaduwering/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [waterdieptekaart_grotekans_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_grotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/waterdieptekaart_grotekans_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
