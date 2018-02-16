@@ -50,6 +50,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [bxlheat_bxlHeat - irisnet.be](http://www.gis.irisnet.be/arcgis/rest/services/bxlheat/bxlHeat/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](http://www.gis.irisnet.be/arcgis/rest/services/bxlheat/bxlHeat/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Intergraph OGC Web Map Tile Service - Intergraph Corporation](http://www.sigass.be/WMTS_FPV/service.svc/get) - [GetCapabilities](http://www.sigass.be/WMTS_FPV/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [Web Map Tile Service - GeoWebCache - irisnet.be](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Web Map Tile Service - GeoWebCache - irisnet.be](http://www.mybrugis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](http://www.mybrugis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
@@ -161,6 +163,14 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Web Map Tile Service - GeoWebCache - imio.be](https://geonode.imio.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geonode.imio.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [WMTS Atlas 1841 - Intergraph Corporation](https://siggwm.hainaut.be/wmts_atlas_1841/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/wmts_atlas_1841/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [WMTS Hainaut - Intergraph Corporation](https://siggwm.hainaut.be/WMTS_Hainaut/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMTS_Hainaut/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [WMTS IGN 10MCO - Intergraph Corporation](https://siggwm.hainaut.be/WMTS_IGN_10MCO/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMTS_IGN_10MCO/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [WMTS PPNC 2009 - Intergraph Corporation](https://siggwm.hainaut.be/wmts_PPNC_2009/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/wmts_PPNC_2009/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
