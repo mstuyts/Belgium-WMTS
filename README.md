@@ -72,14 +72,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [archief_Risicozones_overstroming_2007 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Risicozones_overstroming_2007/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Risicozones_overstroming_2007/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [archief_Overstromingsgevoelige_gebieden_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [archief_Overstromingsgevoelige_gebieden_2011 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2011/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2011/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [archief_Overstromingsgevoelige_gebieden_2014 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2014/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2014/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [archief_Risicozones_overstroming_2007 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Risicozones_overstroming_2007/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Risicozones_overstroming_2007/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
-
 * [Luchtfoto - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Luchtfoto_1971 - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_1971/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
