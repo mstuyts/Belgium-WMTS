@@ -12,6 +12,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Belgium
 
+* [eo6.be](https://geo6.be/mapproxy/zones/service) - [GetCapabilities](https://geo6.be/mapproxy/zones/service?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [DONNEES_BASE_FOND_PLAN_CARTE_EU - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [DONNEES_BASE_FOND_PLAN_CARTE_EU_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU_NB/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU_NB/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
@@ -62,7 +64,7 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [ABW_Plannen - limburg.be](https://geo.limburg.be/arcgis/rest/services/ABW_Plannen/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/ABW_Plannen/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [AGIV WMTS service - agentschap Informatie Vlaanderen](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts) - [GetCapabilities](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+* [agentschap Informatie Vlaanderen WMTS service - agentschap Informatie Vlaanderen](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts) - [GetCapabilities](https://tile.informatievlaanderen.be/ws/raadpleegdiensten/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [archief_Overstromingsgevoelige_gebieden_2006 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/archief/Overstromingsgevoelige_gebieden_2006/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
