@@ -12,8 +12,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Belgium
 
-* [eo6.be](https://geo6.be/mapproxy/zones/service) - [GetCapabilities](https://geo6.be/mapproxy/zones/service?request=getcapabilities&service=wmts&version=1.0.0)
-
 * [DONNEES_BASE_FOND_PLAN_CARTE_EU - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [DONNEES_BASE_FOND_PLAN_CARTE_EU_NB - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU_NB/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/DONNEES_BASE/FOND_PLAN_CARTE_EU_NB/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
@@ -55,8 +53,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Intergraph OGC Web Map Tile Service - Intergraph Corporation](http://www.sigass.be/WMTS_FPV/service.svc/get) - [GetCapabilities](http://www.sigass.be/WMTS_FPV/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Web Map Tile Service - GeoWebCache - irisnet.be](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
-
-* [Web Map Tile Service - GeoWebCache - irisnet.be](http://www.mybrugis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](http://www.mybrugis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 
 
@@ -209,6 +205,14 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/dark-v9/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/dark-v9/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Mapbox (access token needed for access - https://www.mapbox.com/help/define-access-token/) - mapbox.com](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts) - [GetCapabilities](https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [NASA Global Imagery Browse Services for EOSDIS - National Aeronautics and Space Administration](https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://gibs.earthdata.nasa.gov/wmts/epsg4326/best/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [NASA Global Imagery Browse Services for EOSDIS - National Aeronautics and Space Administration](https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [NASA Global Imagery Browse Services for EOSDIS - National Aeronautics and Space Administration](https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://gibs.earthdata.nasa.gov/wmts/epsg3413/best/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [NASA Global Imagery Browse Services for EOSDIS - National Aeronautics and Space Administration](https://gibs.earthdata.nasa.gov/wmts/epsg3031/best/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://gibs.earthdata.nasa.gov/wmts/epsg3031/best/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [NatGeo_World_Map - arcgisonline.com](https://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
