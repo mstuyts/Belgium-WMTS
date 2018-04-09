@@ -162,8 +162,6 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [Web Map Tile Service - GeoWebCache - imio.be](https://geonode.imio.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geonode.imio.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
-
 * [WMTS Atlas 1841 - Intergraph Corporation](https://siggwm.hainaut.be/wmts_atlas_1841/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/wmts_atlas_1841/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [WMTS Hainaut - Intergraph Corporation](https://siggwm.hainaut.be/WMTS_Hainaut/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/WMTS_Hainaut/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
