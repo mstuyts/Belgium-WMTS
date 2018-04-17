@@ -116,6 +116,10 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 ## Wallonia
 
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON__2015 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [AGRICULTURE_SIGEC_PARC_AGRI_ANON__2016 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/AGRICULTURE/SIGEC_PARC_AGRI_ANON__2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
 * [APP_ATLAS_STAT_OVERVIEW - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/OVERVIEW/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/OVERVIEW/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [APP_ATLAS_STAT_TILED - wallonie.be](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/TILED/MapServer/WMTS) - [GetCapabilities](https://geoservices2.wallonie.be/arcgis/rest/services/APP_ATLAS_STAT/TILED/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
