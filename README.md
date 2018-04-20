@@ -80,7 +80,9 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Luchtfoto_2012_zomer - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2012_zomer/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2012_zomer/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
-* [Luchtfoto_eltest - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_eltest/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_eltest/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+* [Luchtfoto_2015 - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2015/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Luchtfoto_2017 - limburg.be](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geo.limburg.be/arcgis/rest/services/Luchtfoto_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [Overstromingsgevoelige_gebieden_2017 - waterinfo.be](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://inspirepub.waterinfo.be/arcgis/rest/services/Overstromingsgevoelige_gebieden_2017/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
@@ -165,6 +167,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 * [IMAGERIE_ORTHO_2016 - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_2016/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [IMAGERIE_ORTHO_LAST - wallonie.be](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS) - [GetCapabilities](https://geoservices.wallonie.be/arcgis/rest/services/IMAGERIE/ORTHO_LAST/MapServer/WMTS?request=getcapabilities&service=wmts&version=1.0.0)
+
+* [Web Map Tile Service - GeoWebCache - imio.be](https://geonode.imio.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geonode.imio.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
 * [WMTS Atlas 1841 - Intergraph Corporation](https://siggwm.hainaut.be/wmts_atlas_1841/service.svc/get) - [GetCapabilities](https://siggwm.hainaut.be/wmts_atlas_1841/service.svc/get?request=getcapabilities&service=wmts&version=1.0.0)
 
