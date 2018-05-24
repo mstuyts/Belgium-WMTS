@@ -54,6 +54,8 @@ More information about WMTS Services kan be found on [Wikipedia](https://en.wiki
 
 * [Web Map Tile Service - GeoWebCache - irisnet.be](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://geoservices-urbis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
 
+* [Web Map Tile Service - GeoWebCache - irisnet.be](https://mybrugis.irisnet.be/geoserver/gwc/service/wmts) - [GetCapabilities](https://mybrugis.irisnet.be/geoserver/gwc/service/wmts?request=getcapabilities&service=wmts&version=1.0.0)
+
 
 
 ## Flanders
